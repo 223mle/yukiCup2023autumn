@@ -5,6 +5,7 @@ yukiCup 2023autumnで使用したコードです。<br>
 
 
 Public: 11位
+
 Private 43位(Private Best: 5位)
 
 
